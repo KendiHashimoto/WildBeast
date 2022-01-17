@@ -1,7 +1,7 @@
 # 🐺 WildBeast
-## 🟢 Repositório para o site estático responsivo criado no curso de Grid-layout da Origamid com o objetivo de melhorar os conhecimentos sobre o assunto
+## 🟢 Static responsive site created in Origamid's Grid-layout course with the goal of improving knowledge on the subject.
 ## 👉 Site : <a href="https://hashimoto1312.github.io/WildBeast/">WildBeast</a>
-## 🛠️ Feito com : 
+## 🛠️ Made with : 
 <div style="display: inline_block">
   <img align="center" alt="Hashimoto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Hashimoto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
